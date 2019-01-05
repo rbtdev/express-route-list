@@ -1,0 +1,29 @@
+{
+  "name": "express-route-list",
+  "version": "1.0.0",
+  "description": "Create a list of router enpoints to help with documenting your Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbtdev/express-route-list.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "router",
+    "routes",
+    "api"
+  ],
+  "author": "Rob Thuleen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbtdev/express-route-list/issues"
+  },
+  "homepage": "https://github.com/rbtdev/express-route-list#readme",
+  "dependencies": {
+    "express-list-endpoints": "^4.0.0"
+  }
+}
